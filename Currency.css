@@ -1,0 +1,56 @@
+.currency-div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+
+
+}
+.amount{
+    width: 180px;
+    height: 25px;
+
+}
+
+.currency-option1{
+    width: 80px;
+    height: 30px;
+    margin-right: 10px;
+  
+}
+.currency-option2{
+    width: 80px;
+    height: 30px;
+    margin-left: 10px;
+  
+}
+
+.result{
+    width: 180px;
+    height: 25px;
+}
+
+.office{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 50px;
+}
+.push{
+    margin-top: 30px;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(43, 209, 43);
+    color: white;
+    border: none;
+    height: 30px;
+    width: 100px;
+    cursor: pointer;
+
+}
+
+.wrapper{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
